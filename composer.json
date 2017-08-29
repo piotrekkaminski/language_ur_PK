@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_ur_pk",
+    "name": "piotrekkaminski/language_ur_pk",
     "description": "Urdu (اردو) Magento2 Language Pack (ur_PK) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
